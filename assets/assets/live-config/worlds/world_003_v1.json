@@ -1,0 +1,97 @@
+{
+  "worldId": 3,
+  "name": "Vulcão Ardente",
+  "biome": "volcano",
+  "levels": [
+    {
+      "id": 1,
+      "seedCode": "HT-5x5x2-M3-E-1777803001000000",
+      "tileCount": 36,
+      "isBoss": false
+    },
+    {
+      "id": 2,
+      "seedCode": "HT-5x5x3-M3-E-1777803002000000",
+      "tileCount": 42,
+      "isBoss": false
+    },
+    {
+      "id": 3,
+      "seedCode": "HT-5x5x2-M3-E-1777803003000000",
+      "tileCount": 39,
+      "isBoss": false
+    },
+    {
+      "id": 4,
+      "seedCode": "HT-5x5x3-M3-E-1777803004000000",
+      "tileCount": 45,
+      "isBoss": false
+    },
+    {
+      "id": 5,
+      "seedCode": "HT-5x5x3-M3-E-1777803005000000",
+      "tileCount": 48,
+      "isBoss": true
+    },
+    {
+      "id": 6,
+      "seedCode": "HT-4x4x3-M3-E-1777803006000000",
+      "tileCount": 33,
+      "isBoss": false
+    },
+    {
+      "id": 7,
+      "seedCode": "HT-5x5x3-M3-E-1777803007000000",
+      "tileCount": 45,
+      "isBoss": false
+    },
+    {
+      "id": 8,
+      "seedCode": "HT-6x6x2-M3-E-1777803008000000",
+      "tileCount": 54,
+      "isBoss": false
+    },
+    {
+      "id": 9,
+      "seedCode": "HT-5x5x2-M3-E-1777803009000000",
+      "tileCount": 39,
+      "isBoss": false
+    },
+    {
+      "id": 10,
+      "seedCode": "HT-6x6x3-M3-E-1777803010000000",
+      "tileCount": 60,
+      "isBoss": true
+    },
+    {
+      "id": 11,
+      "seedCode": "HT-5x5x3-M3-E-1777803011000000",
+      "tileCount": 42,
+      "isBoss": false
+    },
+    {
+      "id": 12,
+      "seedCode": "HT-6x6x2-M3-E-1777803012000000",
+      "tileCount": 54,
+      "isBoss": false
+    },
+    {
+      "id": 13,
+      "seedCode": "HT-6x6x3-M3-E-1777803013000000",
+      "tileCount": 57,
+      "isBoss": false
+    },
+    {
+      "id": 14,
+      "seedCode": "HT-6x6x3-M3-E-1777803014000000",
+      "tileCount": 60,
+      "isBoss": false
+    },
+    {
+      "id": 15,
+      "seedCode": "HT-6x7x2-M3-M-1777803015000000",
+      "isBoss": true,
+      "template": "Moldura"
+    }
+  ]
+}

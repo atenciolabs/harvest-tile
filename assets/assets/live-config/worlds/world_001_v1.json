@@ -1,0 +1,71 @@
+{
+  "worldId": 1,
+  "name": "Ilha Iniciante",
+  "biome": "island",
+  "levels": [
+    {
+      "id": 1,
+      "seedCode": "HT-1x3x1-M3-M-1777659001000000"
+    },
+    {
+      "id": 2,
+      "seedCode": "HT-2x2x1-M3-M-1777659002000000"
+    },
+    {
+      "id": 3,
+      "seedCode": "HT-2x2x2-M3-M-1777659003000000"
+    },
+    {
+      "id": 4,
+      "seedCode": "HT-4x3x2-M3-E-1775127637865000"
+    },
+    {
+      "id": 5,
+      "seedCode": "HT-3x2x2-M3-M-1784393741420000",
+      "isBoss": true
+    },
+    {
+      "id": 6,
+      "seedCode": "HT-4x4x2-M3-E-1775127720150000"
+    },
+    {
+      "id": 7,
+      "seedCode": "HT-4x4x2-M3-E-1775306279101000"
+    },
+    {
+      "id": 8,
+      "seedCode": "HT-4x4x2-M3-E-1775306484252000"
+    },
+    {
+      "id": 9,
+      "seedCode": "HT-4x4x2-M3-E-1775127843965000"
+    },
+    {
+      "id": 10,
+      "seedCode": "HT-4x4x3-M3-E-1777700010000000",
+      "isBoss": true
+    },
+    {
+      "id": 11,
+      "seedCode": "HT-4x4x2-M3-E-1777660803869000"
+    },
+    {
+      "id": 12,
+      "seedCode": "HT-4x4x2-M3-E-1775306903470000"
+    },
+    {
+      "id": 13,
+      "seedCode": "HT-4x4x3-M3-E-1777659656963000"
+    },
+    {
+      "id": 14,
+      "seedCode": "HT-4x4x3-M3-E-1777700014000000"
+    },
+    {
+      "id": 15,
+      "seedCode": "HT-5x7x1-M3-M-1777659010000000",
+      "isBoss": true,
+      "template": "Avião"
+    }
+  ]
+}

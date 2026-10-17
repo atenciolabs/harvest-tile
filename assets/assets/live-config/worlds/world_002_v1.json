@@ -1,0 +1,97 @@
+{
+  "worldId": 2,
+  "name": "Floresta Desafiadora",
+  "biome": "forest",
+  "levels": [
+    {
+      "id": 1,
+      "seedCode": "HT-4x4x2-M3-E-1777802001000000",
+      "tileCount": 24,
+      "isBoss": false
+    },
+    {
+      "id": 2,
+      "seedCode": "HT-4x4x2-M3-E-1777802002000000",
+      "tileCount": 27,
+      "isBoss": false
+    },
+    {
+      "id": 3,
+      "seedCode": "HT-4x4x3-M3-E-1777802003000000",
+      "tileCount": 30,
+      "isBoss": false
+    },
+    {
+      "id": 4,
+      "seedCode": "HT-4x4x2-M3-E-1777802004000000",
+      "tileCount": 27,
+      "isBoss": false
+    },
+    {
+      "id": 5,
+      "seedCode": "HT-4x4x3-M3-E-1777802005000000",
+      "tileCount": 36,
+      "isBoss": true
+    },
+    {
+      "id": 6,
+      "seedCode": "HT-4x4x2-M3-E-1777802006000000",
+      "tileCount": 24,
+      "isBoss": false
+    },
+    {
+      "id": 7,
+      "seedCode": "HT-4x4x3-M3-E-1777802007000000",
+      "tileCount": 33,
+      "isBoss": false
+    },
+    {
+      "id": 8,
+      "seedCode": "HT-5x5x2-M3-E-1777802008000000",
+      "tileCount": 36,
+      "isBoss": false
+    },
+    {
+      "id": 9,
+      "seedCode": "HT-4x4x3-M3-E-1777802009000000",
+      "tileCount": 30,
+      "isBoss": false
+    },
+    {
+      "id": 10,
+      "seedCode": "HT-5x5x3-M3-E-1777802010000000",
+      "tileCount": 45,
+      "isBoss": true
+    },
+    {
+      "id": 11,
+      "seedCode": "HT-4x4x2-M3-E-1777802011000000",
+      "tileCount": 27,
+      "isBoss": false
+    },
+    {
+      "id": 12,
+      "seedCode": "HT-4x4x3-M3-E-1777802012000000",
+      "tileCount": 33,
+      "isBoss": false
+    },
+    {
+      "id": 13,
+      "seedCode": "HT-5x5x2-M3-E-1777802013000000",
+      "tileCount": 39,
+      "isBoss": false
+    },
+    {
+      "id": 14,
+      "seedCode": "HT-5x5x3-M3-E-1777802014000000",
+      "tileCount": 42,
+      "isBoss": false
+    },
+    {
+      "id": 15,
+      "seedCode": "HT-7x7x1-M3-M-1777802015000000",
+      "isBoss": true,
+      "template": "Asterisco"
+    }
+  ]
+}

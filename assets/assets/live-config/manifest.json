@@ -1,0 +1,10 @@
+{
+  "configVersion": 1,
+  "minAppVersion": "1.0.0",
+  "worlds": [
+    { "id": 1, "file": "worlds/world_001_v1.json", "version": 1 },
+    { "id": 2, "file": "worlds/world_002_v1.json", "version": 1 },
+    { "id": 3, "file": "worlds/world_003_v1.json", "version": 1 }
+
+  ]
+}
