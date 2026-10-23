@@ -1,0 +1,144 @@
+{
+  "worldId": 3,
+  "name": "Vulcão Ardente",
+  "biome": "mountain",
+  "levels": [
+    {
+      "id": 1,
+      "seedCode": "HT-3x2x2-M3-M-1784393568914000",
+      "chests": [{ "type": "gold", "amount": 30 }]
+    },
+    {
+      "id": 2,
+      "seedCode": "HT-2x4x2-M3-M-1784745147238000",
+      "chests": [
+        { "type": "gold", "amount": 30 }
+      ]
+    },
+    {
+      "id": 3,
+      "seedCode": "HT-4x3x2-M3-M-1784401560276000",
+      "chests": [
+        { "type": "gold", "amount": 30 }
+      ]
+    },
+    {
+      "id": 4,
+      "seedCode": "HT-4x3x2-M3-M-1784402695738000",
+      "chests": [{ "type": "gold", "amount": 30 }]
+    },
+    {
+      "id": 5,
+      "seedCode": "HT-5x7x2-M3-M-1778293027032000",
+      "chests": [
+        { "type": "gold", "amount": 80 },
+        { "type": "gold", "amount": 80 }
+      ]
+    },
+    {
+      "id": 6,
+      "seedCode": "HT-4x3x2-M3-M-1784401511021000",
+      "chests": [
+        { "type": "gold", "amount": 30 }
+      ]
+    },
+    {
+      "id": 7,
+      "seedCode": "HT-4x4x2-M3-M-1784569699734000",
+      "chests": [
+        { "type": "gold", "amount": 30 }
+      ]
+    },
+    {
+      "id": 8,
+      "seedCode": "HT-3x7x2-M3-H-1786231629370000",
+      "chests": [
+        { "type": "gold", "amount": 30 }
+      ]
+    },
+    {
+      "id": 9,
+      "seedCode": "HT-3x8x2-M3-M-1786155790828000",
+      "chests": [{ "type": "gold", "amount": 30 }]
+    },
+    {
+      "id": 10,
+      "seedCode": "HT-M-emoji-1786802207811000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 80 },
+        { "type": "gold", "amount": 80 },
+        { "type": "gold", "amount": 100 }
+      ]
+    },
+    {
+      "id": 11,
+      "seedCode": "HT-5x7x2-M3-M-1777974657227000",
+      "chests": [
+        { "type": "gold", "amount": 30 }
+      ]
+    },
+    {
+      "id": 12,
+      "seedCode": "HT-4x5x2-M3-M-1777947486244000",
+      "chests": [
+        { "type": "gold", "amount": 30 }
+      ]
+    },
+    {
+      "id": 13,
+      "seedCode": "HT-5x6x3-M3-E-1777946693884000",
+      "chests": [{ "type": "gold", "amount": 30 }]
+    },
+    {
+      "id": 14,
+      "seedCode": "HT-5x7x2-M3-M-1777980266330000",
+      "chests": [{ "type": "gold", "amount": 30 }]
+    },
+    {
+      "id": 15,
+      "seedCode": "HT-5x7x2-M3-M-1778293148763000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 80 },
+        { "type": "gold", "amount": 80 }
+      ]
+    },
+    {
+      "id": 16,
+      "seedCode": "HT-4x5x2-M3-H-1777947006290000",
+      "chests": [
+        { "type": "gold", "amount": 30 }
+      ]
+    },
+    {
+      "id": 17,
+      "seedCode": "HT-4x6x2-M3-M-1785981506009000",
+      "chests": [
+        { "type": "gold", "amount": 30 }
+      ]
+    },
+    {
+      "id": 18,
+      "seedCode": "HT-5x7x2-M3-M-1777980367784000",
+      "chests": [
+        { "type": "gold", "amount": 30 }
+      ]
+    },
+    {
+      "id": 19,
+      "seedCode": "HT-5x6x2-M3-M-1777968717890000",
+      "chests": [{ "type": "gold", "amount": 30 }]
+    },
+    {
+      "id": 20,
+      "seedCode": "HT-M-asterisco_2-1786802597363000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 150 },
+        { "type": "gold", "amount": 150 },
+        { "type": "gold", "amount": 200 }
+      ]
+    }
+  ]
+}
