@@ -1,0 +1,89 @@
+{
+  "worldId": 1,
+  "name": "Ilha Iniciante",
+  "biome": "island",
+  "levels": [
+    {
+      "id": 1,
+      "seedCode": "HT-1x3x1-M3-M-1777659001000000"
+    },
+    {
+      "id": 2,
+      "seedCode": "HT-2x2x1-M3-M-1777659002000000"
+    },
+    {
+      "id": 3,
+      "seedCode": "HT-2x3x2-M3-M-1784393174585000",
+      "chests": [{ "type": "gold", "amount": 10 }]
+    },
+    {
+      "id": 4,
+      "seedCode": "HT-3x2x2-M3-M-1784393741420000",
+      "chests": [{ "type": "gold", "amount": 10 }]
+    },
+    {
+      "id": 5,
+      "seedCode": "HT-E-cruz_ver-1784802608592000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 10 },
+        { "type": "gold", "amount": 10 }
+      ]
+    },
+    {
+      "id": 6,
+      "seedCode": "HT-2x3x2-M3-M-1784393192733000"
+    },
+    {
+      "id": 7,
+      "seedCode": "HT-3x2x2-M3-M-1784393594294000",
+      "chests": [{ "type": "gold", "amount": 10 }]
+    },
+    {
+      "id": 8,
+      "seedCode": "HT-2x3x2-M3-M-1784393502883000"
+    },
+    {
+      "id": 9,
+      "seedCode": "HT-3x2x2-M3-M-1784393664510000"
+    },
+    {
+      "id": 10,
+      "seedCode": "HT-2x4x2-M3-M-1784745181524000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 10 },
+        { "type": "gold", "amount": 10 },
+        { "type": "gold", "amount": 10 }
+      ]
+    },
+    {
+      "id": 11,
+      "seedCode": "HT-2x3x2-M3-M-1784393812211000"
+    },
+    {
+      "id": 12,
+      "seedCode": "HT-3x2x2-M3-M-1784393692806000",
+      "chests": [{ "type": "gold", "amount": 10 }]
+    },
+    {
+      "id": 13,
+      "seedCode": "HT-2x4x2-M3-M-1784745159315000",
+      "chests": [{ "type": "gold", "amount": 10 }]
+    },
+    {
+      "id": 14,
+      "seedCode": "HT-3x2x2-M3-M-1784393713772000"
+    },
+    {
+      "id": 15,
+      "seedCode": "HT-M-bug-1786802301770000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 10 },
+        { "type": "gold", "amount": 15 },
+        { "type": "gold", "amount": 10 }
+      ]
+    }
+  ]
+}
