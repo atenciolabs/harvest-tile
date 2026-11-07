@@ -1,0 +1,49 @@
+{
+  "configVersion": 1,
+  "minAppVersion": "1.0.0",
+  "worlds": [
+    { "id": 1, "file": "worlds/world_001_v1.json", "version": 1 },
+    { "id": 2, "file": "worlds/world_002_v1.json", "version": 1 },
+    { "id": 3, "file": "worlds/world_003_v1.json", "version": 1 },
+    { "id": 4, "file": "worlds/world_004_v1.json", "version": 1 },
+    { "id": 5, "file": "worlds/world_005_v1.json", "version": 1 }
+  ],
+  "economy": {
+    "version": 4,
+    "dailyChallenge": {
+      "reward": 250,
+      "streakMilestoneDays": 7,
+      "streakMilestones": [
+        { "day": 3, "powerUp": "undo", "amount": 1 },
+        { "day": 7, "powerUp": "shuffle", "amount": 3 }
+      ]
+    },
+    "dailyGift": {
+      "1": { "coins": 50 },
+      "2": { "coins": 75 },
+      "3": { "coins": 50, "undo": 1 },
+      "4": { "coins": 100 },
+      "5": { "coins": 75, "shuffle": 1 },
+      "6": { "coins": 125 },
+      "7": { "coins": 500 }
+    },
+    "continue": { "step": 1.5, "maxPerAttempt": 2 },
+    "byWorld": {
+      "1": { "continue": 0, "preBossOffer": 0 },
+      "2": { "continue": 1200, "preBossOffer": 300 },
+      "3": { "continue": 1800, "preBossOffer": 450 },
+      "4": { "continue": 2000, "preBossOffer": 500 },
+      "5": { "continue": 2200, "preBossOffer": 600 }
+    },
+    "byFrontier": {
+      "1": { "undoKit": 600,  "shuffleKit": 1200, "livesRefill": 1800, "adSkipLives": 2700 },
+      "2": { "undoKit": 1000, "shuffleKit": 2000, "livesRefill": 2000, "adSkipLives": 3000 },
+      "3": { "undoKit": 1200, "shuffleKit": 2400, "livesRefill": 2700, "adSkipLives": 4000 },
+      "4": { "undoKit": 1300, "shuffleKit": 2600, "livesRefill": 3000, "adSkipLives": 4500 },
+      "5": { "undoKit": 1300, "shuffleKit": 2500, "livesRefill": 2900, "adSkipLives": 4400 }
+    },
+    "arcadeEntry": {
+      "veryEasy": 0, "easy": 0, "normal": 35, "hard": 80, "insane": 170
+    }
+  }
+}

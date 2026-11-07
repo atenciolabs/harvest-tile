@@ -1,0 +1,144 @@
+{
+  "worldId": 5,
+  "name": "Atol das Ruínas",
+  "biome": "ruins",
+  "levels": [
+    {
+      "id": 1,
+      "seedCode": "HT-4x5x2-M3-H-1777947006290000",
+      "chests": [{ "type": "gold", "amount": 45 }]
+    },
+    {
+      "id": 2,
+      "seedCode": "HT-2x6x3-M3-H-1786231770781000",
+      "chests": [
+        { "type": "gold", "amount": 45 }
+      ]
+    },
+    {
+      "id": 3,
+      "seedCode": "HT-4x4x2-M3-M-1784569699734000",
+      "chests": [
+        { "type": "gold", "amount": 45 }
+      ]
+    },
+    {
+      "id": 4,
+      "seedCode": "HT-3x5x2-M3-H-1777947300552000",
+      "chests": [{ "type": "gold", "amount": 45 }]
+    },
+    {
+      "id": 5,
+      "seedCode": "HT-5x7x2-M3-M-1777974392979000",
+      "chests": [
+        { "type": "gold", "amount": 110 },
+        { "type": "gold", "amount": 110 }
+      ]
+    },
+    {
+      "id": 6,
+      "seedCode": "HT-3x5x2-M3-H-1777947207563000",
+      "chests": [
+        { "type": "gold", "amount": 45 }
+      ]
+    },
+    {
+      "id": 7,
+      "seedCode": "HT-5x3x2-M3-H-1784570080158000",
+      "chests": [
+        { "type": "gold", "amount": 45 }
+      ]
+    },
+    {
+      "id": 8,
+      "seedCode": "HT-3x4x2-M3-H-1777947368054000",
+      "chests": [
+        { "type": "gold", "amount": 45 }
+      ]
+    },
+    {
+      "id": 9,
+      "seedCode": "HT-3x4x2-M3-M-1784402839307000",
+      "chests": [{ "type": "gold", "amount": 45 }]
+    },
+    {
+      "id": 10,
+      "seedCode": "HT-M-carrinho_maneiro-1788722282562000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 110 },
+        { "type": "gold", "amount": 110 },
+        { "type": "gold", "amount": 140 }
+      ]
+    },
+    {
+      "id": 11,
+      "seedCode": "HT-2x4x2-M3-M-1784745053207000",
+      "chests": [
+        { "type": "gold", "amount": 45 }
+      ]
+    },
+    {
+      "id": 12,
+      "seedCode": "HT-5x6x2-M3-M-1777969564134000",
+      "chests": [
+        { "type": "gold", "amount": 45 }
+      ]
+    },
+    {
+      "id": 13,
+      "seedCode": "HT-5x4x2-M3-M-1784403003184000",
+      "chests": [{ "type": "gold", "amount": 45 }]
+    },
+    {
+      "id": 14,
+      "seedCode": "HT-4x6x2-M3-M-1785981167268000",
+      "chests": [{ "type": "gold", "amount": 45 }]
+    },
+    {
+      "id": 15,
+      "seedCode": "HT-6x7x2-M3-M-1777975298642000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 110 },
+        { "type": "gold", "amount": 110 }
+      ]
+    },
+    {
+      "id": 16,
+      "seedCode": "HT-5x7x2-M3-M-1778583521250000",
+      "chests": [
+        { "type": "gold", "amount": 45 }
+      ]
+    },
+    {
+      "id": 17,
+      "seedCode": "HT-4x4x2-M3-M-1784569631865000",
+      "chests": [
+        { "type": "gold", "amount": 45 }
+      ]
+    },
+    {
+      "id": 18,
+      "seedCode": "HT-5x3x2-M3-H-1784570219723000",
+      "chests": [
+        { "type": "gold", "amount": 45 }
+      ]
+    },
+    {
+      "id": 19,
+      "seedCode": "HT-6x7x2-M3-M-1777976125031000",
+      "chests": [{ "type": "gold", "amount": 45 }]
+    },
+    {
+      "id": 20,
+      "seedCode": "HT-M-casa-1787050997563000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 150 },
+        { "type": "gold", "amount": 150 },
+        { "type": "gold", "amount": 200 }
+      ]
+    }
+  ]
+}

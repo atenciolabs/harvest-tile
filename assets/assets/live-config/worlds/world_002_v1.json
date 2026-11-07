@@ -1,0 +1,138 @@
+{
+  "worldId": 2,
+  "name": "Floresta Desafiadora",
+  "biome": "forest",
+  "levels": [
+    {
+      "id": 1,
+      "seedCode": "HT-3x4x2-M3-H-1777947368054000",
+      "chests": [{ "type": "gold", "amount": 25 }]
+    },
+    {
+      "id": 2,
+      "seedCode": "HT-2x4x2-M3-M-1784745181524000",
+      "chests": [{ "type": "gold", "amount": 25 }]
+    },
+    {
+      "id": 3,
+      "seedCode": "HT-3x2x2-M3-M-1784393538129000",
+      "chests": [{ "type": "gold", "amount": 25 }]
+    },
+    {
+      "id": 4,
+      "seedCode": "HT-3x4x2-M3-H-1777947346414000",
+      "chests": [{ "type": "gold", "amount": 25 }]
+    },
+    {
+      "id": 5,
+      "isBoss": true,
+      "seedCode": "HT-M-numero_7-1792602643350000",
+      "chests": [
+        { "type": "gold", "amount": 60 },
+        { "type": "gold", "amount": 60 }
+      ]
+    },
+    {
+      "id": 6,
+      "seedCode": "HT-3x4x2-M3-M-1784402801345000",
+      "chests": [
+        { "type": "gold", "amount": 25 }
+      ]
+    },
+    {
+      "id": 7,
+      "seedCode": "HT-3x5x2-M3-H-1784570033968000",
+      "chests": [{ "type": "gold", "amount": 25 }]
+    },
+    {
+      "id": 8,
+      "seedCode": "HT-2x3x2-M3-M-1784393123187000",
+      "chests": [
+        { "type": "gold", "amount": 25 }
+      ]
+    },
+    {
+      "id": 9,
+      "seedCode": "HT-3x5x2-M3-H-1784569993015000",
+      "chests": [{ "type": "gold", "amount": 25 }]
+    },
+    {
+      "id": 10,
+      "seedCode": "HT-M-aviao-1786802269801000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 60 },
+        { "type": "gold", "amount": 60 }
+      ]
+    },
+    {
+      "id": 11,
+      "seedCode": "HT-2x4x2-M3-M-1784745159315000",
+      "chests": [
+        { "type": "gold", "amount": 25 }
+      ]
+    },
+    {
+      "id": 12,
+      "seedCode": "HT-3x8x2-M3-M-1786155858929000",
+      "chests": [
+        { "type": "gold", "amount": 25 }
+      ]
+    },
+    {
+      "id": 13,
+      "seedCode": "HT-6x2x2-M3-H-1786468122982000",
+      "chests": [{ "type": "gold", "amount": 25 }]
+    },
+    {
+      "id": 14,
+      "seedCode": "HT-4x4x2-M3-M-1784569591675000",
+      "chests": [
+        { "type": "gold", "amount": 25 }
+      ]
+    },
+    {
+      "id": 15,
+      "seedCode": "HT-H-asterisco_2-1787154983314000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 60 },
+        { "type": "gold", "amount": 60 }
+      ]
+    },
+    {
+      "id": 16,
+      "seedCode": "HT-3x5x2-M3-H-1777947486244000",
+      "chests": [
+        { "type": "gold", "amount": 25 }
+      ]
+    },
+    {
+      "id": 17,
+      "seedCode": "HT-5x3x2-M3-H-1784570080158000",
+      "chests": [{ "type": "gold", "amount": 25 }]
+    },
+    {
+      "id": 18,
+      "seedCode": "HT-2x8x2-M3-H-1786155739033000",
+      "chests": [
+        { "type": "gold", "amount": 25 }
+      ]
+    },
+    {
+      "id": 19,
+      "seedCode": "HT-4x4x2-M3-M-1784569631865000",
+      "chests": [{ "type": "gold", "amount": 25 }]
+    },
+    {
+      "id": 20,
+      "seedCode": "HT-M-boligrafo-1787154862071000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 100 },
+        { "type": "gold", "amount": 100 },
+        { "type": "gold", "amount": 200 }
+      ]
+    }
+  ]
+}
