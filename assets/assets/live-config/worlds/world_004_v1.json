@@ -1,0 +1,125 @@
+{
+  "worldId": 4,
+  "name": "Castle",
+  "biome": "castle",
+  "levels": [
+    {
+      "id": 1,
+      "seedCode": "HT-3x5x2-M3-H-1777947300552000"
+    },
+    {
+      "id": 2,
+      "seedCode": "HT-3x5x2-M3-H-1777947169026000"
+    },
+    {
+      "id": 3,
+      "seedCode": "HT-3x8x2-M3-M-1786155858929000"
+    },
+    {
+      "id": 4,
+      "seedCode": "HT-4x3x2-M3-M-1784401511021000",
+      "chests": [
+        { "type": "gold", "amount": 90 },
+        { "type": "gold", "amount": 90 }
+      ]
+    },
+    {
+      "id": 5,
+      "seedCode": "HT-H-baralho_ouros-1794498974193000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 110 },
+        { "type": "gold", "amount": 110 }
+      ]
+    },
+    {
+      "id": 6,
+      "seedCode": "HT-3x4x3-M3-H-1784569807828000"
+    },
+    {
+      "id": 7,
+      "seedCode": "HT-4x3x2-M3-M-1784402495484000"
+    },
+    {
+      "id": 8,
+      "seedCode": "HT-2x4x2-M3-M-1784745053207000"
+    },
+    {
+      "id": 9,
+      "seedCode": "HT-3x4x2-M3-M-1784402839307000",
+      "chests": [
+        { "type": "gold", "amount": 90 },
+        { "type": "gold", "amount": 90 }
+      ]
+    },
+    {
+      "id": 10,
+      "seedCode": "HT-M-castelo-1786802364886000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 110 },
+        { "type": "gold", "amount": 110 },
+        { "type": "gold", "amount": 140 }
+      ]
+    },
+    {
+      "id": 11,
+      "seedCode": "HT-4x5x2-M3-M-1777968253673000"
+    },
+    {
+      "id": 12,
+      "seedCode": "HT-5x7x2-M3-M-1778022526739000"
+    },
+    {
+      "id": 13,
+      "seedCode": "HT-5x6x2-M3-H-1777947821589000"
+    },
+    {
+      "id": 14,
+      "seedCode": "HT-5x7x2-M3-M-1777974838036000",
+      "chests": [
+        { "type": "gold", "amount": 90 },
+        { "type": "gold", "amount": 90 }
+      ]
+    },
+    {
+      "id": 15,
+      "seedCode": "HT-H-cruz_ortodoxa-1794498383610000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 110 },
+        { "type": "gold", "amount": 110 }
+      ]
+    },
+    {
+      "id": 16,
+      "seedCode": "HT-4x6x2-M3-M-1786313211488000"
+    },
+    {
+      "id": 17,
+      "seedCode": "HT-4x6x2-M3-M-1785981167268000"
+    },
+    {
+      "id": 18,
+      "seedCode": "HT-5x6x2-M3-M-1777968554670000"
+    },
+    {
+      "id": 19,
+      "seedCode": "HT-6x5x2-M3-M-1784560441852000",
+      "chests": [
+        { "type": "gold", "amount": 90 },
+        { "type": "gold", "amount": 90 }
+      ]
+    },
+    {
+      "id": 20,
+      "seedCode": "HT-M-moldura-1786802449843000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 150 },
+        { "type": "gold", "amount": 150 },
+        { "type": "gold", "amount": 200 }
+      ]
+    }
+  ]
+}

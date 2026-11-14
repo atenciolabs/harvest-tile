@@ -1,0 +1,105 @@
+{
+  "configVersion": 6,
+  "minAppVersion": "1.0.0",
+  "worlds": [
+    { "id": 1, "file": "worlds/world_001_v1.json", "version": 1 },
+    { "id": 2, "file": "worlds/world_002_v1.json", "version": 1 },
+    { "id": 3, "file": "worlds/world_003_v1.json", "version": 1 },
+    { "id": 4, "file": "worlds/world_004_v1.json", "version": 1 },
+    { "id": 5, "file": "worlds/world_005_v1.json", "version": 1 }
+  ],
+  "economy": {
+    "version": 5,
+    "dailyChallenge": {
+      "reward": 250,
+      "streakMilestoneDays": 7,
+      "streakMilestones": [
+        { "day": 3, "powerUp": "undo", "amount": 1 },
+        { "day": 7, "powerUp": "shuffle", "amount": 3 }
+      ]
+    },
+    "dailyGift": {
+      "1": { "coins": 50 },
+      "2": { "coins": 75 },
+      "3": { "coins": 50, "undo": 1 },
+      "4": { "coins": 100 },
+      "5": { "coins": 75, "shuffle": 1 },
+      "6": { "coins": 125 },
+      "7": { "coins": 500 }
+    },
+    "continue": { "step": 1.5, "maxPerAttempt": 2 },
+    "byWorld": {
+      "1": { "continue": 0, "preBossOffer": 0 },
+      "2": { "continue": 1200, "preBossOffer": 300 },
+      "3": { "continue": 1800, "preBossOffer": 450 },
+      "4": { "continue": 2000, "preBossOffer": 500 },
+      "5": { "continue": 2200, "preBossOffer": 600 }
+    },
+    "byFrontier": {
+      "1": { "undoKit": 600,  "shuffleKit": 1200, "livesRefill": 1800 },
+      "2": { "undoKit": 1000, "shuffleKit": 2000, "livesRefill": 2000 },
+      "3": { "undoKit": 1200, "shuffleKit": 2400, "livesRefill": 2700 },
+      "4": { "undoKit": 1300, "shuffleKit": 2600, "livesRefill": 3000 },
+      "5": { "undoKit": 1300, "shuffleKit": 2500, "livesRefill": 2900 }
+    },
+    "arcadeEntry": {
+      "veryEasy": 0, "easy": 0, "normal": 35, "hard": 80, "insane": 170
+    }
+  },
+  "winFlow": { "mode": "smart", "smartRolloutPct": 100 },
+  "winChest": { "enabled": true, "winsRequired": 5, "undo": 1, "shuffle": 1 },
+  "shop": {
+    "version": 1,
+    "starter": {
+      "productId": "starter_pack",
+      "coins": 800,
+      "undo": 3,
+      "shuffle": 0,
+      "windowHours": 72
+    },
+    "special": {
+      "productId": "special_bundle",
+      "coins": 4000,
+      "undo": 3,
+      "shuffle": 2,
+      "cycleDays": 14,
+      "maxPerCycle": 1
+    },
+    "piggy": {
+      "productId": "piggy_bank",
+      "cap": 3000,
+      "fillPermille": 500,
+      "revealPriceWhen": "full"
+    },
+    "packs": [
+      { "id": "coin_starter", "coins": 600 },
+      { "id": "coin_pouch",   "coins": 1500, "tag": "popular" },
+      { "id": "coin_chest",   "coins": 4200 },
+      { "id": "coin_vault",   "coins": 9500 },
+      { "id": "coin_bank",    "coins": 20000, "tag": "best_value" }
+    ],
+    "videoSlots": {
+      "undo": { "reward": 1, "dailyCap": 5 },
+      "shuffle": { "reward": 1, "dailyCap": 3 }
+    }
+  },
+  "notifications": {
+    "enabled": true,
+    "dailyHour": 20,
+    "reengageEnabled": true,
+    "holdoutPct": 10
+  },
+  "interstitial": {
+    "enabled": true,
+    "minSessionSec": 240,
+    "minIntervalSec": 180,
+    "minWorld": 2,
+    "showOnDefeat": false
+  },
+  "infiniteLivesAd": {
+    "enabled": true,
+    "extendEnabled": true,
+    "extendMaxRemainingSec": 90,
+    "extendMaxPerBonus": 2
+  }
+}
