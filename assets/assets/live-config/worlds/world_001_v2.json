@@ -1,0 +1,297 @@
+{
+  "worldId": 1,
+  "name": "Island",
+  "biome": "island",
+  "levels": [
+    {
+      "id": 1,
+      "seedCode": "HT-2x3x1-M3-M-1777659001000000",
+      "isBoss": false,
+      "chests": []
+    },
+    {
+      "id": 2,
+      "seedCode": "HT-S_girassol-3x4x3-M3-M-1797112001012000-G2",
+      "isBoss": false,
+      "chests": []
+    },
+    {
+      "id": 3,
+      "seedCode": "HT-S_trevo-3x3x2-M3-M-1797112006017000-G2",
+      "isBoss": false,
+      "chests": []
+    },
+    {
+      "id": 4,
+      "seedCode": "HT-S_abacaxi-7x7x2-M3-M-1797112009021000-G2",
+      "isBoss": false,
+      "chests": [
+        {
+          "type": "gold",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seedCode": "HT-S_tartaruga-8x8x4-M3-E-1797112013030000-G2",
+      "isBoss": true,
+      "chests": [
+        {
+          "type": "gold",   
+          "amount": 10
+        },
+        {
+          "type": "gold",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seedCode": "HT-S_circulo-5x6x3-M3-E-1795650206001000-G2",
+      "isBoss": false,
+      "chests": [] 
+    },
+    {
+      "id": 7,
+      "seedCode": "HT-S_losango-6x7x3-M3-E-1795650207003000-G2",
+      "isBoss": false,
+      "chests": []
+    },
+    {
+      "id": 8,
+      "seedCode": "HT-S_coracao-5x6x3-M3-E-1795650208002000-G2",
+      "isBoss": false,
+      "chests": []
+    },
+    {
+      "id": 9,
+      "seedCode": "HT-S_rosquinha-6x6x3-M3-E-1795650209002000-G2",
+      "isBoss": false,
+      "chests": [
+        {
+          "type": "gold",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seedCode": "HT-S_diamante-7x7x3-M3-M-1797112023120000-G2",
+      "isBoss": true,
+      "chests": [
+        {
+          "type": "gold",
+          "amount": 10
+        },
+        {
+          "type": "gold",
+          "amount": 10
+        },
+        {
+          "type": "gold",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seedCode": "HT-S_estrela-7x7x3-M3-E-1795650211001000-G2",
+      "isBoss": false,
+      "chests": []
+    },
+    {
+      "id": 12,
+      "seedCode": "HT-S_maca-6x6x3-M3-E-1795650212001000-G2",
+      "isBoss": false,
+      "chests": []
+    },
+    {
+      "id": 13,
+      "seedCode": "HT-S_coracao-6x6x3-M3-E-1795650213002000-G2",
+      "isBoss": false,
+      "chests": []
+    },
+    {
+      "id": 14,
+      "seedCode": "HT-S_morango-7x7x3-M3-E-1795650214004000-G2",
+      "isBoss": false,
+      "chests": [
+        {
+          "type": "gold",
+          "amount": 15
+        },
+        {
+          "type": "gold",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seedCode": "HT-S_casa-6x8x3-M3-M-1797112028180000-G2",
+      "isBoss": true,
+      "chests": []
+    }
+  ],
+  "_review": {
+    "source": "assets/live-config/worlds/world_001_v2.json",
+    "generatedBy": "dev_world_editor",
+    "levels": [
+      {
+        "id": 1,
+        "role": "flow",
+        "spec": "2x3x1:M:veryEasy",
+        "band": "veryEasy",
+        "seedCode": "HT-2x3x1-M3-M-1777659001000000",
+        "casual": null,
+        "expert": null,
+        "status": "kept"
+      },
+      {
+        "id": 2,
+        "role": "flow",
+        "spec": "S:girassol:3x4x3:M:veryEasy",
+        "band": "veryEasy",
+        "seedCode": "HT-S_girassol-3x4x3-M3-M-1797112001012000-G2",
+        "casual": 1.0,
+        "expert": 1.0,
+        "status": "suggested"
+      },
+      {
+        "id": 3,
+        "role": "flow",
+        "spec": "S:trevo:3x3x2:M:veryEasy",
+        "band": "veryEasy",
+        "seedCode": "HT-S_trevo-3x3x2-M3-M-1797112006017000-G2",
+        "casual": 1.0,
+        "expert": 1.0,
+        "status": "swapped",
+        "previousSeed": "HT-S_trevo-3x3x2-M3-M-1797112005016000-G2"
+      },
+      {
+        "id": 4,
+        "role": "preBoss",
+        "spec": "S:abacaxi:7x7x2:M:veryEasy",
+        "band": "veryEasy",
+        "seedCode": "HT-S_abacaxi-7x7x2-M3-M-1797112009021000-G2",
+        "casual": 0.95,
+        "expert": 1.0,
+        "status": "suggested"
+      },
+      {
+        "id": 5,
+        "role": "boss",
+        "spec": "S:tartaruga:8x8x4:E:veryEasy",
+        "band": "veryEasy",
+        "seedCode": "HT-S_tartaruga-8x8x4-M3-E-1797112013030000-G2",
+        "casual": 0.95,
+        "expert": 1.0,
+        "status": "suggested"
+      },
+      {
+        "id": 6,
+        "role": "relief",
+        "spec": "S:circulo:5x6x3:E:easy",
+        "band": "easy",
+        "seedCode": "HT-S_circulo-5x6x3-M3-E-1795650206001000-G2",
+        "casual": null,
+        "expert": null,
+        "status": "kept"
+      },
+      {
+        "id": 7,
+        "role": "flow",
+        "spec": "S:losango:6x7x3:E:veryEasy",
+        "band": "veryEasy",
+        "seedCode": "HT-S_losango-6x7x3-M3-E-1795650207003000-G2",
+        "casual": null,
+        "expert": null,
+        "status": "kept"
+      },
+      {
+        "id": 8,
+        "role": "flow",
+        "spec": "S:coracao:5x6x3:E:easy",
+        "band": "easy",
+        "seedCode": "HT-S_coracao-5x6x3-M3-E-1795650208002000-G2",
+        "casual": null,
+        "expert": null,
+        "status": "kept"
+      },
+      {
+        "id": 9,
+        "role": "preBoss",
+        "spec": "S:rosquinha:6x6x3:E:easy",
+        "band": "easy",
+        "seedCode": "HT-S_rosquinha-6x6x3-M3-E-1795650209002000-G2",
+        "casual": null,
+        "expert": null,
+        "status": "kept"
+      },
+      {
+        "id": 10,
+        "role": "boss",
+        "spec": "S:diamante:7x7x3:M:insane",
+        "band": "insane",
+        "seedCode": "HT-S_diamante-7x7x3-M3-M-1797112023120000-G2",
+        "casual": 0.01,
+        "expert": 0.0,
+        "status": "suggested",
+        "previousSeed": "HT-S_diamante-7x7x3-M3-M-1797112017037000-G2"
+      },
+      {
+        "id": 11,
+        "role": "relief",
+        "spec": "S:estrela:7x7x3:E:easy",
+        "band": "easy",
+        "seedCode": "HT-S_estrela-7x7x3-M3-E-1795650211001000-G2",
+        "casual": null,
+        "expert": null,
+        "status": "kept"
+      },
+      {
+        "id": 12,
+        "role": "flow",
+        "spec": "S:maca:6x6x3:E:veryEasy",
+        "band": "veryEasy",
+        "seedCode": "HT-S_maca-6x6x3-M3-E-1795650212001000-G2",
+        "casual": null,
+        "expert": null,
+        "status": "kept"
+      },
+      {
+        "id": 13,
+        "role": "flow",
+        "spec": "S:coracao:6x6x3:E:veryEasy",
+        "band": "veryEasy",
+        "seedCode": "HT-S_coracao-6x6x3-M3-E-1795650213002000-G2",
+        "casual": null,
+        "expert": null,
+        "status": "kept"
+      },
+      {
+        "id": 14,
+        "role": "preBoss",
+        "spec": "S:morango:7x7x3:E:easy",
+        "band": "easy",
+        "seedCode": "HT-S_morango-7x7x3-M3-E-1795650214004000-G2",
+        "casual": null,
+        "expert": null,
+        "status": "kept"
+      },
+      {
+        "id": 15,
+        "role": "finalBoss",
+        "spec": "S:casa:6x8x3:M:hard",
+        "band": "hard",
+        "seedCode": "HT-S_casa-6x8x3-M3-M-1797112028180000-G2",
+        "casual": 0.16,
+        "expert": 0.35,
+        "status": "suggested",
+        "previousSeed": "HT-S_casa-6x8x3-M3-M-1797112024139000-G2"
+      }
+    ]
+  }
+}

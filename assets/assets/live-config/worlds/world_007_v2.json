@@ -1,0 +1,125 @@
+{
+  "worldId": 7,
+  "name": "Desert",
+  "biome": "desert",
+  "levels": [
+    {
+      "id": 1,
+      "seedCode": "HT-S_circulo-7x7x3-M3-M-1796250200011000-G2"
+    },
+    {
+      "id": 2,
+      "seedCode": "HT-S_arvore-7x8x3-M3-M-1795650400712000-G2"
+    },
+    {
+      "id": 3,
+      "seedCode": "HT-S_estrela-9x9x3-M3-M-1796250200060000-G2"
+    },
+    {
+      "id": 4,
+      "seedCode": "HT-S_rosquinha-9x9x3-M3-M-1796250200273000-G2",
+      "chests": [
+        { "type": "gold", "amount": 55 },
+        { "type": "gold", "amount": 55 }
+      ]
+    },
+    {
+      "id": 5,
+      "seedCode": "HT-M-carrinho_maneiro-1788722282562000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 75 },
+        { "type": "gold", "amount": 75 }
+      ]
+    },
+    {
+      "id": 6,
+      "seedCode": "HT-SP_ursinho-7x8x3-M3-E-1795650400713000-G2"
+    },
+    {
+      "id": 7,
+      "seedCode": "HT-S_sapo-7x7x3-M3-M-1795650400723000-G2"
+    },
+    {
+      "id": 8,
+      "seedCode": "HT-S_casa-7x8x3-M3-M-1795650400719000-G2"
+    },
+    {
+      "id": 9,
+      "seedCode": "HT-S_cogumelo-7x8x3-M3-M-1795650400737000-G2",
+      "chests": [
+        { "type": "gold", "amount": 55 },
+        { "type": "gold", "amount": 55 }
+      ]
+    },
+    {
+      "id": 10,
+      "seedCode": "HT-M-castelo-1786802364886000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 75 },
+        { "type": "gold", "amount": 75 },
+        { "type": "gold", "amount": 95 }
+      ]
+    },
+    {
+      "id": 11,
+      "seedCode": "HT-SP_pintinho-7x8x3-M3-E-1795650400739000-G2"
+    },
+    {
+      "id": 12,
+      "seedCode": "HT-S_maca-7x8x3-M3-M-1795650400748000-G2"
+    },
+    {
+      "id": 13,
+      "seedCode": "HT-S_girassol-7x8x4-M3-M-1795650400771000-G2"
+    },
+    {
+      "id": 14,
+      "seedCode": "HT-S_trevo-7x8x4-M3-M-1795650400765000-G2",
+      "chests": [
+        { "type": "gold", "amount": 55 },
+        { "type": "gold", "amount": 55 }
+      ]
+    },
+    {
+      "id": 15,
+      "seedCode": "HT-H-baralho_ouros-1794498974193000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 75 },
+        { "type": "gold", "amount": 75 }
+      ]
+    },
+    {
+      "id": 16,
+      "seedCode": "HT-SP_coelho-7x8x3-M3-E-1795650400773000-G2"
+    },
+    {
+      "id": 17,
+      "seedCode": "HT-S_diamante-7x8x5-M3-E-1795650400827000-G2"
+    },
+    {
+      "id": 18,
+      "seedCode": "HT-S_raposa-7x8x4-M3-M-1795650400780000-G2"
+    },
+    {
+      "id": 19,
+      "seedCode": "HT-S_abacaxi-9x9x4-M3-M-1795650400793000-G2",
+      "chests": [
+        { "type": "gold", "amount": 55 },
+        { "type": "gold", "amount": 55 }
+      ]
+    },
+    {
+      "id": 20,
+      "seedCode": "HT-M-boligrafo-1787154862071000",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 105 },
+        { "type": "gold", "amount": 105 },
+        { "type": "gold", "amount": 150 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "worldId": 6,
+  "name": "Candy",
+  "biome": "candy",
+  "levels": [
+    {
+      "id": 1,
+      "seedCode": "HT-S_cereja-7x7x3-M3-M-1796150201007000-G2"
+    },
+    {
+      "id": 2,
+      "seedCode": "HT-S_rosquinha-9x9x3-M3-E-1796150202006000-G2"
+    },
+    {
+      "id": 3,
+      "seedCode": "HT-S_sorvete-7x9x3-M3-M-1796150203004000-G2"
+    },
+    {
+      "id": 4,
+      "seedCode": "HT-S_maca-7x8x3-M3-M-1796150204008000-G2",
+      "chests": [
+        { "type": "gold", "amount": 50 },
+        { "type": "gold", "amount": 50 }
+      ]
+    },
+    {
+      "id": 5,
+      "seedCode": "HT-H-asterisco_2-1795650300047000-G2",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 65 },
+        { "type": "gold", "amount": 65 }
+      ]
+    },
+    {
+      "id": 6,
+      "seedCode": "HT-S_balao-8x8x3-M3-E-1796150206001000-G2"
+    },
+    {
+      "id": 7,
+      "seedCode": "HT-S_laco-7x8x3-M3-M-1796150207002000-G2"
+    },
+    {
+      "id": 8,
+      "seedCode": "HT-S_sorvete-8x10x3-M3-M-1796150208001000-G2"
+    },
+    {
+      "id": 9,
+      "seedCode": "HT-S_coracao-7x8x3-M3-M-1796150209002000-G2",
+      "chests": [
+        { "type": "gold", "amount": 50 },
+        { "type": "gold", "amount": 50 }
+      ]
+    },
+    {
+      "id": 10,
+      "seedCode": "HT-H-asterisco-1795650300024000-G2",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 65 },
+        { "type": "gold", "amount": 65 },
+        { "type": "gold", "amount": 85 }
+      ]
+    },
+    {
+      "id": 11,
+      "seedCode": "HT-S_cereja-7x8x3-M3-E-1796150211001000-G2"
+    },
+    {
+      "id": 12,
+      "seedCode": "HT-S_uva-8x8x3-M3-M-1796150212014000-G2"
+    },
+    {
+      "id": 13,
+      "seedCode": "HT-S_morango-8x9x3-M3-M-1796150213001000-G2"
+    },
+    {
+      "id": 14,
+      "seedCode": "HT-S_rosquinha-9x9x3-M3-M-1796150214010000-G2",
+      "chests": [
+        { "type": "gold", "amount": 50 },
+        { "type": "gold", "amount": 50 }
+      ]
+    },
+    {
+      "id": 15,
+      "seedCode": "HT-H-meio_livre-1795650300076000-G2",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 65 },
+        { "type": "gold", "amount": 65 }
+      ]
+    },
+    {
+      "id": 16,
+      "seedCode": "HT-S_sino-7x8x3-M3-M-1796150216002000-G2"
+    },
+    {
+      "id": 17,
+      "seedCode": "HT-S_trofeu-8x9x3-M3-M-1796150217005000-G2"
+    },
+    {
+      "id": 18,
+      "seedCode": "HT-S_sorvete-8x10x4-M3-M-1796150218012000-G2"
+    },
+    {
+      "id": 19,
+      "seedCode": "HT-S_laco-8x9x4-M3-M-1796150219016000-G2",
+      "chests": [
+        { "type": "gold", "amount": 50 },
+        { "type": "gold", "amount": 50 }
+      ]
+    },
+    {
+      "id": 20,
+      "seedCode": "HT-H-escadinha_vertical-1795650300090000-G2",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 90 },
+        { "type": "gold", "amount": 90 },
+        { "type": "gold", "amount": 130 }
+      ]
+    }
+  ]
+}
