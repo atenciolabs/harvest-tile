@@ -1,0 +1,125 @@
+{
+  "worldId": 8,
+  "name": "Cavern",
+  "biome": "mountain",
+  "levels": [
+    {
+      "id": 1,
+      "seedCode": "HT-S_robo-7x8x3-M3-M-1795650201032000-G2"
+    },
+    {
+      "id": 2,
+      "seedCode": "HT-S_diamante-7x8x3-M3-M-1795650202009000-G2"
+    },
+    {
+      "id": 3,
+      "seedCode": "HT-S_coruja-6x8x3-M3-M-1795650203021000-G2"
+    },
+    {
+      "id": 4,
+      "seedCode": "HT-S_moai-6x8x3-M3-M-1795650204007000-G2",
+      "chests": [
+        { "type": "gold", "amount": 60 },
+        { "type": "gold", "amount": 60 }
+      ]
+    },
+    {
+      "id": 5,
+      "seedCode": "HT-S_coroa-7x8x3-M3-H-1795650205081000-G2",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 80 },
+        { "type": "gold", "amount": 80 }
+      ]
+    },
+    {
+      "id": 6,
+      "seedCode": "HT-SP_pintinho-7x8x3-M3-E-1795650206004000-G2"
+    },
+    {
+      "id": 7,
+      "seedCode": "HT-S_sino-7x8x3-M3-M-1795650207015000-G2"
+    },
+    {
+      "id": 8,
+      "seedCode": "HT-S_cogumelo-7x8x3-M3-M-1795650208029000-G2"
+    },
+    {
+      "id": 9,
+      "seedCode": "HT-S_coracao-7x8x4-M3-M-1795650209012000-G2",
+      "chests": [
+        { "type": "gold", "amount": 60 },
+        { "type": "gold", "amount": 60 }
+      ]
+    },
+    {
+      "id": 10,
+      "seedCode": "HT-S_trofeu-7x8x5-M3-H-1795650210001000-G2",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 80 },
+        { "type": "gold", "amount": 80 },
+        { "type": "gold", "amount": 105 }
+      ]
+    },
+    {
+      "id": 11,
+      "seedCode": "HT-SP_pinguim-6x9x3-M3-E-1795650211002000-G2"
+    },
+    {
+      "id": 12,
+      "seedCode": "HT-S_uva-7x8x4-M3-M-1795650212095000-G2"
+    },
+    {
+      "id": 13,
+      "seedCode": "HT-S_laco-7x8x4-M3-M-1795650213017000-G2"
+    },
+    {
+      "id": 14,
+      "seedCode": "HT-S_robo-7x9x4-M3-M-1795650214010000-G2",
+      "chests": [
+        { "type": "gold", "amount": 60 },
+        { "type": "gold", "amount": 60 }
+      ]
+    },
+    {
+      "id": 15,
+      "seedCode": "HT-S_ampulheta-8x9x5-M3-H-1795650215001000-G2",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 80 },
+        { "type": "gold", "amount": 80 }
+      ]
+    },
+    {
+      "id": 16,
+      "seedCode": "HT-SP_gato-7x8x3-M3-E-1795650216013000-G2"
+    },
+    {
+      "id": 17,
+      "seedCode": "HT-S_diamante-7x8x4-M3-M-1795650217016000-G2"
+    },
+    {
+      "id": 18,
+      "seedCode": "HT-S_pinheiro-7x9x4-M3-M-1795650218018000-G2"
+    },
+    {
+      "id": 19,
+      "seedCode": "HT-S_moai-6x8x5-M3-M-1795650219027000-G2",
+      "chests": [
+        { "type": "gold", "amount": 60 },
+        { "type": "gold", "amount": 60 }
+      ]
+    },
+    {
+      "id": 20,
+      "seedCode": "HT-S_panda-7x8x6-M3-H-1795650220001000-G2",
+      "isBoss": true,
+      "chests": [
+        { "type": "gold", "amount": 110 },
+        { "type": "gold", "amount": 110 },
+        { "type": "gold", "amount": 160 }
+      ]
+    }
+  ]
+}

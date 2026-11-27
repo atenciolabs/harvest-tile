@@ -1,0 +1,586 @@
+{
+  "lastUpdated": "2026-11-26",
+  "usedSeeds": {
+    "all": [
+      "HT-2x3x1-M3-M-1777659001000000",
+      "HT-H-coracao-1795650215003000-G2",
+      "HT-H-cruz_ortodoxa-1795650200303000-G2",
+      "HT-H-escama-1795650205005000-G2",
+      "HT-H-letra_a_estranho-1795650200012000-G2",
+      "HT-H-moldura-1795650200316000-G2",
+      "HT-H-robot1-1795650200041000-G2",
+      "HT-SP_cachorro-7x8x3-M3-E-1798200011003000-G2",
+      "HT-SP_cachorro-7x8x3-M3-E-1798400021149000-G2",
+      "HT-SP_coelho-7x8x3-M3-E-1795650400773000-G2",
+      "HT-SP_coelho-7x8x3-M3-E-1798200006001000-G2",
+      "HT-SP_coelho-7x8x3-M3-E-1798300016002000-G2",
+      "HT-SP_coelho-7x8x3-M3-E-1798400041240000-G2",
+      "HT-SP_gato-7x8x3-M3-E-1795650216013000-G2",
+      "HT-SP_gato-7x8x3-M3-E-1798400061328000-G2",
+      "HT-SP_girassol-7x8x3-M3-E-1795850206005000-G2",
+      "HT-SP_matriosca-7x9x3-M3-E-1798300006003000-G2",
+      "HT-SP_matriosca-7x9x3-M3-E-1798400000001000-G2",
+      "HT-SP_pinguim-6x9x3-M3-E-1795650211002000-G2",
+      "HT-SP_pintinho-7x8x3-M3-E-1795650206004000-G2",
+      "HT-SP_pintinho-7x8x3-M3-E-1795650400739000-G2",
+      "HT-SP_pintinho-7x8x3-M3-E-1795850211001000-G2",
+      "HT-SP_pintinho-7x8x3-M3-E-1798200016001000-G2",
+      "HT-SP_ursinho-7x8x3-M3-E-1795650400713000-G2",
+      "HT-SP_ursinho-7x8x3-M3-E-1795850216003000-G2",
+      "HT-SP_ursinho-7x8x3-M3-E-1798300011002000-G2",
+      "HT-S_abacaxi-7x7x2-M3-M-1797112009021000-G2",
+      "HT-S_abacaxi-9x9x4-M3-H-1798400033229000-G2",
+      "HT-S_abacaxi-9x9x4-M3-M-1795650400793000-G2",
+      "HT-S_abacaxi-9x9x4-M3-M-1798200019008000-G2",
+      "HT-S_aguaviva-7x9x3-M3-M-1798300001014000-G2",
+      "HT-S_aguaviva-7x9x3-M3-M-1798300008004000-G2",
+      "HT-S_aguaviva-7x9x3-M3-M-1798400049295000-G2",
+      "HT-S_aguaviva-7x9x4-M3-M-1796050218003000-G2",
+      "HT-S_ampulheta-10x10x4-M3-H-1795650220001000-G2",
+      "HT-S_ampulheta-8x9x5-M3-H-1795650215001000-G2",
+      "HT-S_ampulheta-8x9x5-M3-H-1798400040238000-G2",
+      "HT-S_arvore-7x8x3-M3-M-1795650400712000-G2",
+      "HT-S_arvore-7x8x3-M3-M-1795850203007000-G2",
+      "HT-S_arvore-7x8x4-M3-H-1798400053312000-G2",
+      "HT-S_bala-7x8x3-M3-M-1798400065342000-G2",
+      "HT-S_balao-8x8x3-M3-E-1796150206001000-G2",
+      "HT-S_balao-9x9x3-M3-M-1798400069376000-G2",
+      "HT-S_borboleta-6x8x4-M3-H-1798400075388000-G2",
+      "HT-S_borboleta-7x8x3-M3-M-1795850209001000-G2",
+      "HT-S_cachorro-7x8x3-M3-M-1798100004002000-G2",
+      "HT-S_casa-6x8x3-M3-M-1797112028180000-G2",
+      "HT-S_casa-7x8x3-M3-M-1795650400719000-G2",
+      "HT-S_casa-7x8x3-M3-M-1798200001005000-G2",
+      "HT-S_caveira-8x9x6-M3-H-1797600001007000-G2",
+      "HT-S_cereja-7x7x3-M3-M-1796150201007000-G2",
+      "HT-S_cereja-7x8x3-M3-E-1796150211001000-G2",
+      "HT-S_cereja-9x9x4-M3-M-1798300019004000-G2",
+      "HT-S_chocolate-9x9x5-M3-H-1797500000004000-G2",
+      "HT-S_circulo-5x6x3-M3-E-1795650206001000-G2",
+      "HT-S_circulo-7x7x3-M3-M-1796250200011000-G2",
+      "HT-S_cobra-9x9x5-M3-H-1797600001006000-G2",
+      "HT-S_cogumelo-7x8x3-M3-M-1795650208029000-G2",
+      "HT-S_cogumelo-7x8x3-M3-M-1795650400737000-G2",
+      "HT-S_cogumelo-7x8x3-M3-M-1798100001013000-G2",
+      "HT-S_coracao-5x6x3-M3-E-1795650208002000-G2",
+      "HT-S_coracao-6x6x3-M3-E-1795650213002000-G2",
+      "HT-S_coracao-7x8x3-M3-M-1796150209002000-G2",
+      "HT-S_coracao-7x8x4-M3-M-1795650209012000-G2",
+      "HT-S_coroa-6x8x3-M3-H-1795650200306000-G2",
+      "HT-S_coroa-7x8x3-M3-H-1795650205081000-G2",
+      "HT-S_coroa-7x8x5-M3-H-1798400057323000-G2",
+      "HT-S_coruja-5x8x4-M3-M-1798400001005000-G2",
+      "HT-S_coruja-6x8x3-M3-M-1795650203021000-G2",
+      "HT-S_coruja-6x8x3-M3-M-1798200007012000-G2",
+      "HT-S_cupcake-8x10x6-M3-H-1797500000005000-G2",
+      "HT-S_diamante-7x7x3-M3-M-1797112023120000-G2",
+      "HT-S_diamante-7x8x3-M3-M-1795650202009000-G2",
+      "HT-S_diamante-7x8x3-M3-M-1798100017005000-G2",
+      "HT-S_diamante-7x8x3-M3-M-1798200014002000-G2",
+      "HT-S_diamante-7x8x4-M3-M-1795650217016000-G2",
+      "HT-S_diamante-7x8x5-M3-E-1795650400827000-G2",
+      "HT-S_estrela-7x7x3-M3-E-1795650211001000-G2",
+      "HT-S_estrela-9x9x3-M3-M-1796250200060000-G2",
+      "HT-S_estrela-9x9x3-M3-M-1798200009004000-G2",
+      "HT-S_fantasma-7x11x4-M3-H-1795650200301000-G2",
+      "HT-S_fogo-8x9x6-M3-H-1798400077390000-G2",
+      "HT-S_girassol-3x4x3-M3-M-1797112001012000-G2",
+      "HT-S_girassol-6x8x3-M3-M-1798400005052000-G2",
+      "HT-S_girassol-7x8x4-M3-M-1795650400771000-G2",
+      "HT-S_jarro-7x9x3-M3-M-1798200004005000-G2",
+      "HT-S_jarro-7x9x3-M3-M-1798300004004000-G2",
+      "HT-S_jarro-7x9x4-M3-M-1798200013023000-G2",
+      "HT-S_jarro-7x9x4-M3-M-1798300013004000-G2",
+      "HT-S_laco-7x8x3-M3-M-1795850219005000-G2",
+      "HT-S_laco-7x8x3-M3-M-1796150207002000-G2",
+      "HT-S_laco-7x8x3-M3-M-1798200018010000-G2",
+      "HT-S_laco-7x8x4-M3-M-1795650213017000-G2",
+      "HT-S_laco-8x9x4-M3-M-1796150219016000-G2",
+      "HT-S_leao-9x9x6-M3-H-1797600000002000-G2",
+      "HT-S_liberdade-4x9x4-M3-M-1798400009091000-G2",
+      "HT-S_losango-6x7x3-M3-E-1795650207003000-G2",
+      "HT-S_losango-7x8x4-M3-H-1795650210001000-G2",
+      "HT-S_lula-7x8x4-M3-H-1798400013099000-G2",
+      "HT-S_lula-7x9x3-M3-M-1796050207004000-G2",
+      "HT-S_lula-7x9x3-M3-M-1796050214001000-G2",
+      "HT-S_maca-6x6x3-M3-E-1795650212001000-G2",
+      "HT-S_maca-7x8x3-M3-M-1795650400748000-G2",
+      "HT-S_maca-7x8x3-M3-M-1796150204008000-G2",
+      "HT-S_moai-5x8x4-M3-M-1798400025184000-G2",
+      "HT-S_moai-6x8x3-M3-M-1795650204007000-G2",
+      "HT-S_moai-6x8x3-M3-M-1798100014003000-G2",
+      "HT-S_moai-6x8x3-M3-M-1798200008002000-G2",
+      "HT-S_moai-6x8x3-M3-M-1798300009007000-G2",
+      "HT-S_moai-6x8x5-M3-M-1795650219027000-G2",
+      "HT-S_moai-7x9x3-M3-M-1796050217016000-G2",
+      "HT-S_morango-7x7x3-M3-E-1795650214004000-G2",
+      "HT-S_morango-8x9x3-M3-M-1796150213001000-G2",
+      "HT-S_ogro-9x9x6-M3-H-1795650200001000-G2",
+      "HT-S_panda-7x8x6-M3-H-1795650220001000-G2",
+      "HT-S_pinguim-5x9x4-M3-M-1798400046263000-G2",
+      "HT-S_pinheiro-7x9x4-M3-M-1795650218018000-G2",
+      "HT-S_pirulito-7x8x3-M3-H-1795650200020000-G2",
+      "HT-S_polvo-7x8x3-M3-M-1798400017106000-G2",
+      "HT-S_polvo-7x8x5-M3-H-1798300020001000-G2",
+      "HT-S_raposa-7x8x3-M3-M-1798100002001000-G2",
+      "HT-S_raposa-7x8x4-M3-M-1795650400780000-G2",
+      "HT-S_robo-7x8x3-M3-M-1795650201032000-G2",
+      "HT-S_robo-7x8x3-M3-M-1798100018007000-G2",
+      "HT-S_robo-7x8x3-M3-M-1798200002098000-G2",
+      "HT-S_robo-7x9x4-M3-M-1795650214010000-G2",
+      "HT-S_rosquinha-6x6x3-M3-E-1795650209002000-G2",
+      "HT-S_rosquinha-9x9x3-M3-E-1796150202006000-G2",
+      "HT-S_rosquinha-9x9x3-M3-M-1796150214010000-G2",
+      "HT-S_rosquinha-9x9x3-M3-M-1796250200273000-G2",
+      "HT-S_rosquinha-9x9x3-M3-M-1798200017002000-G2",
+      "HT-S_sapo-7x7x3-M3-M-1795650400723000-G2",
+      "HT-S_sapo-7x7x3-M3-M-1798100007006000-G2",
+      "HT-S_sapo-7x7x3-M3-M-1798300003003000-G2",
+      "HT-S_sino-7x8x3-M3-M-1795650207015000-G2",
+      "HT-S_sino-7x8x3-M3-M-1795850208001000-G2",
+      "HT-S_sino-7x8x3-M3-M-1798200003002000-G2",
+      "HT-S_sino-7x8x3-M3-M-1798200012006000-G2",
+      "HT-S_sol-7x8x3-M3-H-1795650205002000-G2",
+      "HT-S_sorvete-7x9x3-M3-M-1796150203004000-G2",
+      "HT-S_sorvete-8x10x3-M3-M-1796150208001000-G2",
+      "HT-S_sorvete-8x10x4-M3-M-1796150218012000-G2",
+      "HT-S_tartaruga-8x8x4-M3-E-1797112013030000-G2",
+      "HT-S_tartaruga-9x9x3-M3-M-1796050212001000-G2",
+      "HT-S_tartaruga-9x9x3-M3-M-1798300002001000-G2",
+      "HT-S_torre-6x10x4-M3-H-1798300010001000-G2",
+      "HT-S_trevo-3x3x2-M3-M-1797112006017000-G2",
+      "HT-S_trevo-7x8x3-M3-M-1795850213001000-G2",
+      "HT-S_trevo-7x8x3-M3-M-1798400029210000-G2",
+      "HT-S_trevo-7x8x4-M3-M-1795650400765000-G2",
+      "HT-S_trofeu-7x8x5-M3-H-1795650210001000-G2",
+      "HT-S_trofeu-8x9x3-M3-M-1796150217005000-G2",
+      "HT-S_uva-7x8x3-M3-M-1795850212004000-G2",
+      "HT-S_uva-7x8x4-M3-M-1795650212095000-G2",
+      "HT-S_uva-8x8x3-M3-M-1796150212014000-G2"
+    ],
+    "byFamily": {
+      "g1": [
+        "HT-2x3x1-M3-M-1777659001000000"
+      ],
+      "g2Rect": [],
+      "g2Template": [
+        "HT-H-coracao-1795650215003000-G2",
+        "HT-H-cruz_ortodoxa-1795650200303000-G2",
+        "HT-H-escama-1795650205005000-G2",
+        "HT-H-letra_a_estranho-1795650200012000-G2",
+        "HT-H-moldura-1795650200316000-G2"
+      ],
+      "g2Shape": [
+        "HT-SP_cachorro-7x8x3-M3-E-1798200011003000-G2",
+        "HT-SP_cachorro-7x8x3-M3-E-1798400021149000-G2",
+        "HT-SP_coelho-7x8x3-M3-E-1795650400773000-G2",
+        "HT-SP_coelho-7x8x3-M3-E-1798200006001000-G2",
+        "HT-SP_coelho-7x8x3-M3-E-1798300016002000-G2",
+        "HT-SP_coelho-7x8x3-M3-E-1798400041240000-G2",
+        "HT-SP_gato-7x8x3-M3-E-1795650216013000-G2",
+        "HT-SP_gato-7x8x3-M3-E-1798400061328000-G2",
+        "HT-SP_girassol-7x8x3-M3-E-1795850206005000-G2",
+        "HT-SP_matriosca-7x9x3-M3-E-1798300006003000-G2",
+        "HT-SP_matriosca-7x9x3-M3-E-1798400000001000-G2",
+        "HT-SP_pinguim-6x9x3-M3-E-1795650211002000-G2",
+        "HT-SP_pintinho-7x8x3-M3-E-1795650206004000-G2",
+        "HT-SP_pintinho-7x8x3-M3-E-1795650400739000-G2",
+        "HT-SP_pintinho-7x8x3-M3-E-1795850211001000-G2",
+        "HT-SP_pintinho-7x8x3-M3-E-1798200016001000-G2",
+        "HT-SP_ursinho-7x8x3-M3-E-1795650400713000-G2",
+        "HT-SP_ursinho-7x8x3-M3-E-1795850216003000-G2",
+        "HT-SP_ursinho-7x8x3-M3-E-1798300011002000-G2",
+        "HT-S_abacaxi-7x7x2-M3-M-1797112009021000-G2",
+        "HT-S_abacaxi-9x9x4-M3-H-1798400033229000-G2",
+        "HT-S_abacaxi-9x9x4-M3-M-1795650400793000-G2",
+        "HT-S_abacaxi-9x9x4-M3-M-1798200019008000-G2",
+        "HT-S_aguaviva-7x9x3-M3-M-1798300001014000-G2",
+        "HT-S_aguaviva-7x9x3-M3-M-1798300008004000-G2",
+        "HT-S_aguaviva-7x9x3-M3-M-1798400049295000-G2",
+        "HT-S_aguaviva-7x9x4-M3-M-1796050218003000-G2",
+        "HT-S_ampulheta-10x10x4-M3-H-1795650220001000-G2",
+        "HT-S_ampulheta-8x9x5-M3-H-1795650215001000-G2",
+        "HT-S_ampulheta-8x9x5-M3-H-1798400040238000-G2",
+        "HT-S_arvore-7x8x3-M3-M-1795650400712000-G2",
+        "HT-S_arvore-7x8x3-M3-M-1795850203007000-G2",
+        "HT-S_arvore-7x8x4-M3-H-1798400053312000-G2",
+        "HT-S_bala-7x8x3-M3-M-1798400065342000-G2",
+        "HT-S_balao-8x8x3-M3-E-1796150206001000-G2",
+        "HT-S_balao-9x9x3-M3-M-1798400069376000-G2",
+        "HT-S_borboleta-6x8x4-M3-H-1798400075388000-G2",
+        "HT-S_borboleta-7x8x3-M3-M-1795850209001000-G2",
+        "HT-S_cachorro-7x8x3-M3-M-1798100004002000-G2",
+        "HT-S_casa-6x8x3-M3-M-1797112028180000-G2",
+        "HT-S_casa-7x8x3-M3-M-1795650400719000-G2",
+        "HT-S_casa-7x8x3-M3-M-1798200001005000-G2",
+        "HT-S_caveira-8x9x6-M3-H-1797600001007000-G2",
+        "HT-S_cereja-7x7x3-M3-M-1796150201007000-G2",
+        "HT-S_cereja-7x8x3-M3-E-1796150211001000-G2",
+        "HT-S_cereja-9x9x4-M3-M-1798300019004000-G2",
+        "HT-S_chocolate-9x9x5-M3-H-1797500000004000-G2",
+        "HT-S_circulo-5x6x3-M3-E-1795650206001000-G2",
+        "HT-S_circulo-7x7x3-M3-M-1796250200011000-G2",
+        "HT-S_cobra-9x9x5-M3-H-1797600001006000-G2",
+        "HT-S_cogumelo-7x8x3-M3-M-1795650208029000-G2",
+        "HT-S_cogumelo-7x8x3-M3-M-1795650400737000-G2",
+        "HT-S_cogumelo-7x8x3-M3-M-1798100001013000-G2",
+        "HT-S_coracao-5x6x3-M3-E-1795650208002000-G2",
+        "HT-S_coracao-6x6x3-M3-E-1795650213002000-G2",
+        "HT-S_coracao-7x8x3-M3-M-1796150209002000-G2",
+        "HT-S_coracao-7x8x4-M3-M-1795650209012000-G2",
+        "HT-S_coroa-6x8x3-M3-H-1795650200306000-G2",
+        "HT-S_coroa-7x8x3-M3-H-1795650205081000-G2",
+        "HT-S_coroa-7x8x5-M3-H-1798400057323000-G2",
+        "HT-S_coruja-5x8x4-M3-M-1798400001005000-G2",
+        "HT-S_coruja-6x8x3-M3-M-1795650203021000-G2",
+        "HT-S_coruja-6x8x3-M3-M-1798200007012000-G2",
+        "HT-S_cupcake-8x10x6-M3-H-1797500000005000-G2",
+        "HT-S_diamante-7x7x3-M3-M-1797112023120000-G2",
+        "HT-S_diamante-7x8x3-M3-M-1795650202009000-G2",
+        "HT-S_diamante-7x8x3-M3-M-1798100017005000-G2",
+        "HT-S_diamante-7x8x3-M3-M-1798200014002000-G2",
+        "HT-S_diamante-7x8x4-M3-M-1795650217016000-G2",
+        "HT-S_diamante-7x8x5-M3-E-1795650400827000-G2",
+        "HT-S_estrela-7x7x3-M3-E-1795650211001000-G2",
+        "HT-S_estrela-9x9x3-M3-M-1796250200060000-G2",
+        "HT-S_estrela-9x9x3-M3-M-1798200009004000-G2",
+        "HT-S_fantasma-7x11x4-M3-H-1795650200301000-G2",
+        "HT-S_fogo-8x9x6-M3-H-1798400077390000-G2",
+        "HT-S_girassol-3x4x3-M3-M-1797112001012000-G2",
+        "HT-S_girassol-6x8x3-M3-M-1798400005052000-G2",
+        "HT-S_girassol-7x8x4-M3-M-1795650400771000-G2",
+        "HT-S_jarro-7x9x3-M3-M-1798200004005000-G2",
+        "HT-S_jarro-7x9x3-M3-M-1798300004004000-G2",
+        "HT-S_jarro-7x9x4-M3-M-1798200013023000-G2",
+        "HT-S_jarro-7x9x4-M3-M-1798300013004000-G2",
+        "HT-S_laco-7x8x3-M3-M-1795850219005000-G2",
+        "HT-S_laco-7x8x3-M3-M-1796150207002000-G2",
+        "HT-S_laco-7x8x3-M3-M-1798200018010000-G2",
+        "HT-S_laco-7x8x4-M3-M-1795650213017000-G2",
+        "HT-S_laco-8x9x4-M3-M-1796150219016000-G2",
+        "HT-S_leao-9x9x6-M3-H-1797600000002000-G2",
+        "HT-S_liberdade-4x9x4-M3-M-1798400009091000-G2",
+        "HT-S_losango-6x7x3-M3-E-1795650207003000-G2",
+        "HT-S_losango-7x8x4-M3-H-1795650210001000-G2",
+        "HT-S_lula-7x8x4-M3-H-1798400013099000-G2",
+        "HT-S_lula-7x9x3-M3-M-1796050207004000-G2",
+        "HT-S_lula-7x9x3-M3-M-1796050214001000-G2",
+        "HT-S_maca-6x6x3-M3-E-1795650212001000-G2",
+        "HT-S_maca-7x8x3-M3-M-1795650400748000-G2",
+        "HT-S_maca-7x8x3-M3-M-1796150204008000-G2",
+        "HT-S_moai-5x8x4-M3-M-1798400025184000-G2",
+        "HT-S_moai-6x8x3-M3-M-1795650204007000-G2",
+        "HT-S_moai-6x8x3-M3-M-1798100014003000-G2",
+        "HT-S_moai-6x8x3-M3-M-1798200008002000-G2",
+        "HT-S_moai-6x8x3-M3-M-1798300009007000-G2",
+        "HT-S_moai-6x8x5-M3-M-1795650219027000-G2",
+        "HT-S_moai-7x9x3-M3-M-1796050217016000-G2",
+        "HT-S_morango-7x7x3-M3-E-1795650214004000-G2",
+        "HT-S_morango-8x9x3-M3-M-1796150213001000-G2",
+        "HT-S_ogro-9x9x6-M3-H-1795650200001000-G2",
+        "HT-S_panda-7x8x6-M3-H-1795650220001000-G2",
+        "HT-S_pinguim-5x9x4-M3-M-1798400046263000-G2",
+        "HT-S_pinheiro-7x9x4-M3-M-1795650218018000-G2",
+        "HT-S_pirulito-7x8x3-M3-H-1795650200020000-G2",
+        "HT-S_polvo-7x8x3-M3-M-1798400017106000-G2",
+        "HT-S_polvo-7x8x5-M3-H-1798300020001000-G2",
+        "HT-S_raposa-7x8x3-M3-M-1798100002001000-G2",
+        "HT-S_raposa-7x8x4-M3-M-1795650400780000-G2",
+        "HT-S_robo-7x8x3-M3-M-1795650201032000-G2",
+        "HT-S_robo-7x8x3-M3-M-1798100018007000-G2",
+        "HT-S_robo-7x8x3-M3-M-1798200002098000-G2",
+        "HT-S_robo-7x9x4-M3-M-1795650214010000-G2",
+        "HT-S_rosquinha-6x6x3-M3-E-1795650209002000-G2",
+        "HT-S_rosquinha-9x9x3-M3-E-1796150202006000-G2",
+        "HT-S_rosquinha-9x9x3-M3-M-1796150214010000-G2",
+        "HT-S_rosquinha-9x9x3-M3-M-1796250200273000-G2",
+        "HT-S_rosquinha-9x9x3-M3-M-1798200017002000-G2",
+        "HT-S_sapo-7x7x3-M3-M-1795650400723000-G2",
+        "HT-S_sapo-7x7x3-M3-M-1798100007006000-G2",
+        "HT-S_sapo-7x7x3-M3-M-1798300003003000-G2",
+        "HT-S_sino-7x8x3-M3-M-1795650207015000-G2",
+        "HT-S_sino-7x8x3-M3-M-1795850208001000-G2",
+        "HT-S_sino-7x8x3-M3-M-1798200003002000-G2",
+        "HT-S_sino-7x8x3-M3-M-1798200012006000-G2",
+        "HT-S_sol-7x8x3-M3-H-1795650205002000-G2",
+        "HT-S_sorvete-7x9x3-M3-M-1796150203004000-G2",
+        "HT-S_sorvete-8x10x3-M3-M-1796150208001000-G2",
+        "HT-S_sorvete-8x10x4-M3-M-1796150218012000-G2",
+        "HT-S_tartaruga-8x8x4-M3-E-1797112013030000-G2",
+        "HT-S_tartaruga-9x9x3-M3-M-1796050212001000-G2",
+        "HT-S_tartaruga-9x9x3-M3-M-1798300002001000-G2",
+        "HT-S_torre-6x10x4-M3-H-1798300010001000-G2",
+        "HT-S_trevo-3x3x2-M3-M-1797112006017000-G2",
+        "HT-S_trevo-7x8x3-M3-M-1795850213001000-G2",
+        "HT-S_trevo-7x8x3-M3-M-1798400029210000-G2",
+        "HT-S_trevo-7x8x4-M3-M-1795650400765000-G2",
+        "HT-S_trofeu-7x8x5-M3-H-1795650210001000-G2",
+        "HT-S_trofeu-8x9x3-M3-M-1796150217005000-G2",
+        "HT-S_uva-7x8x3-M3-M-1795850212004000-G2",
+        "HT-S_uva-7x8x4-M3-M-1795650212095000-G2",
+        "HT-S_uva-8x8x3-M3-M-1796150212014000-G2"
+      ]
+    },
+    "templates": {
+      "girassol (forma)": [
+        "world_001",
+        "world_002",
+        "world_003",
+        "world_007"
+      ],
+      "trevo (forma)": [
+        "world_001",
+        "world_002",
+        "world_003",
+        "world_007"
+      ],
+      "abacaxi (forma)": [
+        "world_001",
+        "world_002",
+        "world_004",
+        "world_007"
+      ],
+      "tartaruga (forma)": [
+        "world_001",
+        "world_005"
+      ],
+      "circulo (forma)": [
+        "world_001",
+        "world_007"
+      ],
+      "losango (forma)": [
+        "world_001",
+        "world_003"
+      ],
+      "coracao (forma)": [
+        "world_001",
+        "world_006",
+        "world_008"
+      ],
+      "rosquinha (forma)": [
+        "world_001",
+        "world_004",
+        "world_006",
+        "world_007"
+      ],
+      "diamante (forma)": [
+        "world_001",
+        "world_003",
+        "world_004",
+        "world_007",
+        "world_008"
+      ],
+      "estrela (forma)": [
+        "world_001",
+        "world_004",
+        "world_007"
+      ],
+      "maca (forma)": [
+        "world_001",
+        "world_006",
+        "world_007"
+      ],
+      "morango (forma)": [
+        "world_001",
+        "world_006"
+      ],
+      "casa (forma)": [
+        "world_001",
+        "world_004",
+        "world_007"
+      ],
+      "coruja (forma)": [
+        "world_002",
+        "world_004",
+        "world_008"
+      ],
+      "liberdade (forma)": [
+        "world_002"
+      ],
+      "lula (forma)": [
+        "world_002",
+        "world_005"
+      ],
+      "polvo (forma)": [
+        "world_002",
+        "world_005"
+      ],
+      "cachorro (forma)": [
+        "world_002",
+        "world_003",
+        "world_004"
+      ],
+      "moai (forma)": [
+        "world_002",
+        "world_003",
+        "world_004",
+        "world_005",
+        "world_008"
+      ],
+      "ampulheta (forma)": [
+        "world_002",
+        "world_003",
+        "world_008"
+      ],
+      "coelho (forma)": [
+        "world_002",
+        "world_004",
+        "world_005",
+        "world_007"
+      ],
+      "pinguim (forma)": [
+        "world_002",
+        "world_008"
+      ],
+      "aguaviva (forma)": [
+        "world_002",
+        "world_005"
+      ],
+      "arvore (forma)": [
+        "world_002",
+        "world_003",
+        "world_007"
+      ],
+      "coroa (forma)": [
+        "world_002",
+        "world_004",
+        "world_008"
+      ],
+      "gato (forma)": [
+        "world_002",
+        "world_008"
+      ],
+      "bala (forma)": [
+        "world_002"
+      ],
+      "balao (forma)": [
+        "world_002",
+        "world_006"
+      ],
+      "borboleta (forma)": [
+        "world_002",
+        "world_003"
+      ],
+      "fogo (forma)": [
+        "world_002"
+      ],
+      "cogumelo (forma)": [
+        "world_003",
+        "world_007",
+        "world_008"
+      ],
+      "raposa (forma)": [
+        "world_003",
+        "world_007"
+      ],
+      "escama (template)": [
+        "world_003"
+      ],
+      "sapo (forma)": [
+        "world_003",
+        "world_005",
+        "world_007"
+      ],
+      "sino (forma)": [
+        "world_003",
+        "world_004",
+        "world_008"
+      ],
+      "pintinho (forma)": [
+        "world_003",
+        "world_004",
+        "world_007",
+        "world_008"
+      ],
+      "uva (forma)": [
+        "world_003",
+        "world_006",
+        "world_008"
+      ],
+      "coracao (template)": [
+        "world_003"
+      ],
+      "ursinho (forma)": [
+        "world_003",
+        "world_005",
+        "world_007"
+      ],
+      "robo (forma)": [
+        "world_003",
+        "world_004",
+        "world_008"
+      ],
+      "laco (forma)": [
+        "world_003",
+        "world_004",
+        "world_006",
+        "world_008"
+      ],
+      "jarro (forma)": [
+        "world_004",
+        "world_005"
+      ],
+      "fantasma (forma)": [
+        "world_004"
+      ],
+      "cruz_ortodoxa (template)": [
+        "world_004"
+      ],
+      "moldura (template)": [
+        "world_004"
+      ],
+      "letra_a_estranho (template)": [
+        "world_005"
+      ],
+      "matriosca (forma)": [
+        "world_005",
+        "world_006"
+      ],
+      "torre (forma)": [
+        "world_005"
+      ],
+      "cereja (forma)": [
+        "world_005",
+        "world_006"
+      ],
+      "sorvete (forma)": [
+        "world_006"
+      ],
+      "pirulito (forma)": [
+        "world_006"
+      ],
+      "chocolate (forma)": [
+        "world_006"
+      ],
+      "cupcake (forma)": [
+        "world_006"
+      ],
+      "trofeu (forma)": [
+        "world_006",
+        "world_008"
+      ],
+      "ogro (forma)": [
+        "world_006"
+      ],
+      "sol (forma)": [
+        "world_007"
+      ],
+      "cobra (forma)": [
+        "world_007"
+      ],
+      "caveira (forma)": [
+        "world_007"
+      ],
+      "leao (forma)": [
+        "world_007"
+      ],
+      "pinheiro (forma)": [
+        "world_008"
+      ],
+      "panda (forma)": [
+        "world_008"
+      ]
+    }
+  },
+  "notes": "Todas as seeds usadas nos mundos ATIVOS do manifest, por família de formato. Dificuldade não é inferida do tamanho — medir com tool/seed_forge_test.dart. Atualize com: ./scripts/update-seed-tracking.sh"
+}
